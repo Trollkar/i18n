@@ -1,15 +1,15 @@
 acrossBackFactor:
-    title: 'Across back factor' # TODO
-    description: 'Controls your across back width as a factor of your shoulder to shoulder measurement.' # TODO
+    title: 'Ryggviddefaktor'
+    description: 'Styrer ryggvidden din som ein prosentdel av målet ditt frå skulder til skulder.'
 adjustmentRibbon:
-    title: 'Adjustment Ribbon' # TODO
-    description: 'Add a ribbon to make the tie adjustable.' # TODO
+    title: 'Reguleringsband'
+    description: 'Legg til eit band for å kunna regulera halsvidden på sløyfa.'
 armholeDepthFactor:
-    title: 'Armhole depth factor' # TODO
-    description: 'Controls the depth of the armhole. Higher values make a deeper armhole.' # TODO
+    title: 'Ermehòlfaktor' # TODO
+    description: 'Styrer djupna på ermehòlet. Eit høgare tal gir deg djupare ermehòl.'
 armholeDrop:
-    title: 'Armhole drop' # TODO
-    description: 'Lower the armhole by this amount. Negative values will raise it.' # TODO
+    title: 'Lågare ermehòl' # TODO
+    description: 'Senk ermehòlet med dette målet. Negative tal vil heva ermehòlet.'
 backDrop:
     title: 'Back drop' # TODO
     description: 'How much the back panels lower from your hips towards your center back. Negative values will raise the back.' # TODO
@@ -26,92 +26,92 @@ backRise:
         bruce: 'Percentage by which the waist will be raised at the back.' # TODO
         cathrin: 'How much the back panels rise from your arms to your center back.' # TODO
 backScyeDart:
-    title: 'Back scye dart' # TODO
-    description: 'The amount to take out in a dart at the back of the armhole.' # TODO
+    title: 'Innsnitt i bakre ermehòl'
+    description: 'Breidden på innsnittet i ermehòlet på ryggstykket.'
 backVent:
-    title: 'Back vent' # TODO
-    description: 'Do you want a central back vent, or none at all?' # TODO
+    title: 'Splitt midt bak'
+    description: 'Vil du ha splitt midt bak, eller ingen splitt?'
 backVentLength:
-    title: 'Back vent length' # TODO
-    description: 'Controls the length of the back vent. Lower numbers result in a shorter vent.' # TODO
+    title: 'Lengde på splitt midt bak'
+    description: 'Styrer lengden på splitten midt bak. Lågare tal gir kortare splitt.'
 backlineBend:
-    title: 'Back armhole shape' # TODO
-    description: 'Determines the shape/bend of the back of the armholes.' # TODO
+    title: 'Bakre ermehòlkurve'
+    description: 'Styrer fasongen på ermehòlkurva i ryggstykket.'
 barrelcuffNarrowButton:
-    title: 'Cuff narrow button' # TODO
-    description: 'Whether to include a button to tie the cuffs more narrow. This option is only relevant for barrel cuffs.' # TODO
+    title: 'Knapp for trongare mansjett'
+    description: 'Vel om du skal leggja til ein knapp for å kunna gjera mansjetten trongare. Dette er berre relevant for enkle mansjettar.'
 bicepsEase:
-    title: 'Biceps ease' # TODO
-    description: 'The amount of ease at your upper arm. Note that while we try to respect this, fitting the sleeve to the armhole takes precedence over respecting the exact amount of ease.' # TODO
+    title: 'Ledigvidde overarm'
+    description: 'Styrer ledigvidden rundt overarmen. Merk at sjølv om me tar hensyn til dette valet, vil det vera prioritert å konstruera eit erme som passar godt til ermehòlet framfor å gi deg ein eksakt ledigvidde.'
 bowLength:
-    title: 'Bow length' # TODO
-    description: 'The length of the wings of the bow tie.' # TODO
+    title: 'Sløyfelengde'
+    description: 'Lengda på vingene på sløyfa.'
 bowStyle:
-    title: 'Bow style' # TODO
-    description: 'The style of the bow.' # TODO
+    title: 'Sløyfestil'
+    description: 'Stilen på sløyfa.'
 bulge:
-    title: Bulge # TODO
-    description: 'Increase angle to create more room in the front pouch.' # TODO
+    title: 'Bul'
+    description: 'Auk vinkelen for å gi meir plass i framposen.'
 buttonPlacketStyle:
-    title: 'Button placket style' # TODO
-    description: 'Style of the button placket.' # TODO
+    title: 'Knapphòlstolpetype'
+    description: 'Typen knapphòlstolpe.'
 buttonPlacketType:
-    title: 'Button placket type' # TODO
-    description: 'Type of the button placket.' # TODO
+    title: 'Knappestolpetype.'
+    description: 'Typen knappestolpe.'
 buttonPlacketWidth:
-    title: 'Button placket width' # TODO
-    description: 'Width of the button placket.' # TODO
+    title: 'Knappestolpevidde'
+    description: 'Vidden på knappestolpen.'
 buttonfreeLength:
-    title: 'Button free length' # TODO
-    description: 'How much of the bottom of the front closure to keep button-free.' # TODO
+    title: 'Lengde utan knepping'
+    description: 'Kor mykje av lengden på opninga framme som skal vera utan knepping, målt nedanifrå.'
 buttonholePlacketFoldWidth:
-    title: 'Buttonhole placket fold width' # TODO
-    description: 'Width of the buttonhole placket fold.' # TODO
+    title: 'Faldvidde knapphòlstolpe'
+    description: 'Vidden på falden på knapphòlstolpen'
 buttonholePlacketStyle:
-    title: 'Buttonhole placket style' # TODO
-    description: 'Style of the buttonhole placket.' # TODO
+    title: 'Knapphòlstolpestil'
+    description: 'Stilen på knappholstolpen'
 buttonholePlacketType:
-    title: 'Buttonhole placket type' # TODO
-    description: 'Type of the buttonhole placket.' # TODO
+    title: 'Knapphòlstolpetype'
+    description: 'Typen knapphòlstolpe.'
 buttonholePlacketWidth:
-    title: 'Buttonhole placket width' # TODO
-    description: 'Width of the butonhole placket.' # TODO
+    title: 'Knapphòlstolpebreidde'
+    description: 'Breidden på knapphòlstolpen.'
 buttons:
-    title: 'Number of buttons' # TODO
-    description: 'The number of buttons on the front closure.' # TODO
+    title: 'Tal på knappar' # TODO
+    description: 'Kor mange knappar du vil ha i opninga framme.'
 centerBackDart:
-    title: 'Center back dart' # TODO
-    description: 'The amount to take out in a dart at the top of the center back.' # TODO
+    title: 'Innsnitt midt bak' # TODO
+    description: 'Kor mykje vidde som skal gå bort i innsnittet midt bak.'
 centerFrontHemDrop:
     title: 'Center front hem drop' # TODO
     description: 'The hem at the front is lowered by this ratio of your neck to hips vertical measurements.' # TODO
 chestEase:
-    title: 'Chest ease' # TODO
-    description: 'The amount of ease at your chest.' # TODO
+    title: 'Ledigvidde byste'
+    description: 'Ledigvidden rundt overviddemålet.'
 chestPocketAngle:
-    title: 'Chest pocket angle' # TODO
-    description: 'The angle of the chest pocket.' # TODO
+    title: 'Brystlommevinkel'
+    description: 'Vinkelen på brystlomma.'
 chestPocketPlacement:
-    title: 'Chest pocket placement' # TODO
-    description: 'Location of the chest pocket as a proportion a quarter of your chest circumference. Higher numbers move it more to the side.' # TODO
+    title: 'Brystlommeplassering'
+    description: 'Plassering av brystlomma som ein del av kvart overvidde. Høge tal flytter lomma ut til sida.'
 chestPocketWeltSize:
-    title: 'Chest pocket welt height' # TODO
-    description: 'The height of the chest pocket welt.' # TODO
+    title: 'Brystlommeklaffhøgde'
+    description: 'Høgda på brystlommeklaffen.'
 chestPocketWidth:
-    title: 'Chest pocket width' # TODO
-    description: 'The width of the chest pocket, as a factor of your chest circumference.' # TODO
+    title: 'Brystlommevidde'
+    description: 'Vidden på brystlomma som ein faktor av overvidden.'
 chestShaping:
     title: 'Chest shaping' # TODO
     description: 'The vertical amount to slash & spread the upper front panel to shape the chest, as a factor of your chest circumference.' # TODO
 collarAngle:
-    title: 'Collar angle' # TODO
-    description: 'The angle of the collar tips.' # TODO
+    title: 'Kragevinkel'
+    description: 'Vinkelen på endane på kragen.'
 collarBend:
     title: 'Collar bend' # TODO
     description: 'The bend of the collar.' # TODO
 collarEase:
-    title: 'Collar ease' # TODO
-    description: 'The amount of ease around your neck.' # TODO
+    title: 'Ledigvidde krage'
+    description: 'Ledigvidde rundt halsen.'
 collarFlare:
     title: 'Collar flare' # TODO
     description: 'The flare of the collar tips.' # TODO
@@ -119,8 +119,8 @@ collarGap:
     title: 'Collar gap' # TODO
     description: 'The gap between the the two collar ends.' # TODO
 collarHeight:
-    title: 'Collar height' # TODO
-    description: 'This is the collar height at the back of the neck and can never be less than twice the roll line collar height.' # TODO
+    title: 'Kragehøgde.'
+    description: 'Dette er høgda på kragen midt bak, og kan aldri vera mindre enn dobbelt av krageoverlappet.'
 collarNotchAngle:
     title: 'Collar notch angle' # TODO
     description: 'Angle of the collar notch.' # TODO
@@ -131,8 +131,8 @@ collarNotchReturn:
     title: 'Collar notch return' # TODO
     description: 'Controls the length of the upper notch side. 100% = same as notch depth.' # TODO
 collarRoll:
-    title: 'Collar roll' # TODO
-    description: 'The amount by which the top collar is larger than the undercollar.' # TODO
+    title: 'Krageoverlapp' # TODO
+    description: 'Kor mykje større kragen er enn kragestanden.'
 collarStandBend:
     title: 'Collar stand bend' # TODO
     description: 'The bend of the collar stand.' # TODO
@@ -143,29 +143,29 @@ collarStandWidth:
     title: 'Collar stand width' # TODO
     description: 'Widht of the collar stand.' # TODO
 cuffButtonRows:
-    title: 'Cuff button rows' # TODO
-    description: 'Whether to draft a single or double row of cuff buttons. This option is only relevant for barrel cuffs.' # TODO
+    title: 'Knapperekker på mansjett'
+    description: 'Vel mellom ei eller to rekker knappar på mansjetten. Dette er berre relevant for enkle mansjettar.'
 cuffDrape:
-    title: 'Cuff drape' # TODO
-    description: 'The amount by which the sleeve is wider than the cuff where the are joined.' # TODO
+    title: 'Handleddholdning'
+    description: 'Kor mykje større ermestykket er vidare enn mansjetten der dei møtest.'
 cuffEase:
-    title: 'Cuff ease' # TODO
-    description: 'The amount of ease at your wrist.' # TODO
+    title: 'Ledigvidde mansjett'
+    description: 'Ledigvidden rundt handleddet.'
 cuffLength:
-    title: 'Cuff length' # TODO
-    description: 'The length of the cuffs.' # TODO
+    title: 'Mansjetthøgde'
+    description: 'Høgda på mansjetten.'
 cuffStyle:
-    title: 'Cuff style' # TODO
-    description: 'The style of the cuffs.' # TODO
+    title: 'Mansjettstil'
+    description: 'Stilen på mansjetten.'
 elasticWidth:
-    title: 'Elastic width' # TODO
-    description: 'Width of the elastic band you intend to use.' # TODO
+    title: 'Elastikkvidde'
+    description: 'Vidden på elastikken du planlegger å bruka.'
 endStyle:
-    title: 'End style' # TODO
-    description: 'The style of the end of the tie.' # TODO
+    title: 'Endestil'
+    description: 'Stilen på enden av slipset.'
 extraTopButton:
-    title: 'Extra top button' # TODO
-    description: 'Whether or not to include an extra top button on the front closure.' # TODO
+    title: 'Ekstra knapp øvst'
+    description: 'Vel om du skal ha ein ekstra knapp øvst framme.'
 frontCutawayAngle:
     title: 'Front opening bottom cutaway angle' # TODO
     description: 'How much do you want the front to open up below the lower button.' # TODO
